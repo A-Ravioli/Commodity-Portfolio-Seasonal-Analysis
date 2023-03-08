@@ -31,3 +31,5 @@ If you would like to extend this work, here are a few places to start:
 - Add different assets to the portfolio to find ones that are more consistent
 - Add a way to backtest the nextTrade results at the portfolio level to see how this sytem would have done over time
 - Create a heatmap of monthly returns each year to compare to the average to better asses outlier years that may be influencing the model too heavily
+- Make this tradeable by connecting it to a broker API, such as Interactive Brokers, and scheduling the trades to be made on the signal start and end dates
+- Come up with a risk parameterization method that includes minimizing losses to some factor of the average drawdown
