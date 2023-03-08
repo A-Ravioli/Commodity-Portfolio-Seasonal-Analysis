@@ -1,0 +1,28 @@
+,15 Year Positive Streak,5 Year Positive Streak,15 Year Negative Streak
+Asset,ZC=F,ZC=F,
+Start Day,12-08,12-14,
+End Day,12-19,12-27,
+Longest Streak,12,14,
+% Correct,0.9047619047619048,0.7142857142857143,
+Expected Value (%),0.05260540178629952,0.04229544550239016,
+Max DD From Entry (%),-0.037406312665136277,-0.07677125379166527,
+Risk Reward Ratio,1.4063241746714377,0.5509281588284024,
+Sharpe Ratio,0.7988332209799974,0.8067680267020344,
+Asset,ZM=F,,
+Start Day,10-04,,
+End Day,10-14,,
+Longest Streak,11,,
+% Correct,0.7619047619047619,,
+Expected Value (%),0.049484563861717235,,
+Max DD From Entry (%),-0.05869517084861087,,
+Risk Reward Ratio,0.8430772608082183,,
+Sharpe Ratio,0.7165961615490404,,
+Asset,,,ZN=F
+Start Day,,,12-18
+End Day,,,12-26
+Longest Streak,,,9
+% Correct,,,0.8571428571428571
+Expected Value (%),,,0.009174133520167837
+Max DD From Entry (%),,,-0.003589524125522159
+Risk Reward Ratio,,,2.5558077336597647
+Sharpe Ratio,,,1.0943620133263217
