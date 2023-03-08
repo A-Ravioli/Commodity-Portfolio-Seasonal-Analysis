@@ -18,6 +18,10 @@ By using these long-term trends and streaks to inform buying and selling decisio
 # Usage
 - Modify the `folder_path` on line 195 of the last notebook entry from `folder_path = "E:/path/of/your/choice/" + ...` to the file folder where you have downloaded the repo
 - Run Commodity_Portfolio_Seasonal_Analysis.ipynb in a Python IDE
+- It will create a folder for the seasonal period you wish to analyze and inside you will find:
+  - The `nextTrade_"start"_"end".csv`, a log of trades that would have been used in the end year.
+  - The `seasonality_"start"_"end".csv`, a log of all the seasonal trends of each commodity in the portfolio.
+  - A `"ticker"_seasonality.html`, which should be opened in a browser, for each commodity that shows the 15 and 5 year averages, their 20 day moving averages and the end year price change history to make analyzing the PnL visually simple.
 
 # Extending this
 If you would like to extend this work, here are a few places to start:
